@@ -11,4 +11,4 @@ This a test repository for adding GitHub with Visual Studio C# Project
 This file is change
 This is a new change in Saturday
 
-## chages from office on Saturday
+## changes from office on Saturday
